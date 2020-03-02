@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt&display=swap');
+
+* {
+    font-family: 'Prompt';
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+}

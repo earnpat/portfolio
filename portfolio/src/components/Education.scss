@@ -1,0 +1,42 @@
+.container-education {
+  padding: 20px;
+  padding-bottom: 5px;
+}
+
+.title-edu {
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+.timeline-edu {
+  margin: 10px auto;
+}
+.ant-timeline-item-tail {
+  border-left: 5px solid #efefef;
+}
+.ant-timeline.ant-timeline-alternate .ant-timeline-item-head,
+.ant-timeline.ant-timeline-right .ant-timeline-item-head,
+.ant-timeline.ant-timeline-label .ant-timeline-item-head {
+  margin-left: -12px;
+}
+.ant-timeline-item-head {
+  width: 30px;
+  height: 30px;
+  border: 5px solid #28abe1;
+}
+.ant-timeline-item-content {
+  margin: 0 0 0 33px;
+}
+
+.ant-timeline-item-label {
+  padding-right: 15px;
+}
+
+.ant-timeline.ant-timeline-label .ant-timeline-item-label {
+  top: 6px;
+}
+
+.ant-timeline-item-content {
+  top: 4px;
+}
